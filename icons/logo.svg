@@ -1,18 +1,18 @@
 <svg width="155" height="126" viewBox="0 0 155 126" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path d="M144.161 14.2461L154.161 24.2461V37.04L144.161 47.04H108.543V54.9541H141.835L151.835 64.9541V77.3604L141.835 87.3604H108.543V116L98.543 126H84.5859L10.001 111.754L0 101.754V10L10.001 0H69.5762L144.161 14.2461Z" fill-rule="evenodd" clip-rule="evenodd" fill="white"/>
+<path d="M144.161 14.2461L154.161 24.2461V37.04L141.835 49.3662V54.9541L151.835 64.9541V77.3604L141.835 87.3604H108.543V116L98.543 126H84.5859L10.001 111.754L0 101.754V10L10.001 0H69.5762L144.161 14.2461Z" fill-rule="evenodd" clip-rule="evenodd" fill="white"/>
 <path d="M84.5859 116V24.2461H144.161V37.0399H91.1767L98.5429 29.4153V71.5446L91.1767 64.9538H141.835V77.3599H91.1767L98.5429 70.7692V116H84.5859Z" fill="black"/>
-<mask id="stroke0_177_102" maskUnits="userSpaceOnUse" x="74.5859" y="14.2461" width="80" height="112" fill="black">
+<mask id="stroke0_179_103" maskUnits="userSpaceOnUse" x="74.5859" y="14.2461" width="80" height="112" fill="black">
 <rect fill="white" x="74.5859" y="14.2461" width="80" height="112"/>
 <path d="M84.5859 116V24.2461H144.161V37.0399H91.1767L98.5429 29.4153V71.5446L91.1767 64.9538H141.835V77.3599H91.1767L98.5429 70.7692V116H84.5859Z"/>
 </mask>
-<path d="M84.5859 116V24.2461H144.161V37.0399H91.1767L98.5429 29.4153V71.5446L91.1767 64.9538H141.835V77.3599H91.1767L98.5429 70.7692V116H84.5859Z" stroke-width="20" stroke-linejoin="bevel" stroke="white" mask="url(#stroke0_177_102)"/>
-<use xlink:href="#stroke1_177_102" fill="black"/>
-<mask id="stroke2_177_102" maskUnits="userSpaceOnUse" x="0.000488281" y="0" width="80" height="112" fill="black">
+<path d="M84.5859 116V24.2461H144.161V37.0399H91.1767L98.5429 29.4153V71.5446L91.1767 64.9538H141.835V77.3599H91.1767L98.5429 70.7692V116H84.5859Z" stroke-width="20" stroke-linejoin="bevel" stroke="white" mask="url(#stroke0_179_103)"/>
+<use xlink:href="#stroke1_179_103" fill="black"/>
+<mask id="stroke2_179_103" maskUnits="userSpaceOnUse" x="0.000488281" y="0" width="80" height="112" fill="black">
 <rect fill="white" x="0.000488281" width="80" height="112"/>
-<use xlink:href="#stroke1_177_102"/>
+<use xlink:href="#stroke1_179_103"/>
 </mask>
-<path d="M10.0005 101.754V10H69.5759V22.7938H16.5913L23.9574 15.1692V57.2985L16.5913 50.7077H67.2497V63.1138H16.5913L23.9574 56.5231V101.754H10.0005Z" stroke-width="20" stroke-linejoin="bevel" stroke="white" mask="url(#stroke2_177_102)"/>
+<path d="M10.0005 101.754V10H69.5759V22.7938H16.5913L23.9574 15.1692V57.2985L16.5913 50.7077H67.2497V63.1138H16.5913L23.9574 56.5231V101.754H10.0005Z" stroke-width="20" stroke-linejoin="bevel" stroke="white" mask="url(#stroke2_179_103)"/>
 <defs>
-<path id="stroke1_177_102" d="M10.0005 101.754V10H69.5759V22.7938H16.5913L23.9574 15.1692V57.2985L16.5913 50.7077H67.2497V63.1138H16.5913L23.9574 56.5231V101.754H10.0005Z"/>
+<path id="stroke1_179_103" d="M10.0005 101.754V10H69.5759V22.7938H16.5913L23.9574 15.1692V57.2985L16.5913 50.7077H67.2497V63.1138H16.5913L23.9574 56.5231V101.754H10.0005Z"/>
 </defs>
 </svg>
