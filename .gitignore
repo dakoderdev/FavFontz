@@ -1,0 +1,10 @@
+# Private signing key: never commit
+key.pem
+*.pem
+*.crx
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

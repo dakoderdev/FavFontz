@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "FavFontz",
+  "version": "1.0.0",
+  "description": "Save your favorite Google Fonts and keep them in one list.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuSswrtM7Namf/dVAS+Px+jj5UDKmzt5fmVdZdpaehu+uHpMB6lluDKOub6RkB2z8JCJ6nvtEffcFkx3T+ceW1uPrz/7kIn9cRQ6N/LKJJP4VZfNUaCWEC2Pb+Wh+frC2YTFJuNty90q/gd8kOfPnIRO5SXGeSeoO2Q4+WcjoqNSBQQPeLo+m16+0mHTzsyV7nB1aBKy4T/joVsh5QcXTqAMGM0y06hQrdd5V6v7rFYf0YjUHMo/DtoIjZkYl6jklsvV8VtVylQii40j1d/m0lBWryn5H54Jbg6RNC3VnWI5E0LR/O9ljemy2yXqjBAgtPw1oCMqc1eg/LgaOmNAsVwIDAQAB",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "FavFontz",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://fonts.google.com/*",
+    "https://fonts.googleapis.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://fonts.google.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
